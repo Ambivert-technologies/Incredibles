@@ -123,7 +123,7 @@ a.white {
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
 	border: 0.125rem solid #FFD9BE;
 	border-radius: 2rem;
-	background-color: #FFD9BE;
+	/* background-color: #FFD9BE; */
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -141,7 +141,7 @@ a.white {
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
 	border: 0.125rem solid #FFD9BE;
 	border-radius: 2rem;
-	background-color: #FFD9BE;
+	/* background-color: #FFD9BE; */
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -178,7 +178,7 @@ a.white {
 }
 
 .btn-outline-reg:hover {
-	background-color: #FFD9BE;
+	/* background-color: #FFD9BE; */
 	color: #fff;
 	text-decoration: none;
 }
@@ -196,7 +196,7 @@ a.white {
 }
 
 .btn-outline-lg:hover {
-	background-color: #FFD9BE;
+	/* background-color: #FFD9BE; */
 	color: #fff;
 	text-decoration: none;
 }
@@ -214,7 +214,7 @@ a.white {
 }
 
 .btn-outline-sm:hover {
-	background-color: #FFD9BE;
+	/* background-color: #FFD9BE; */
 	color: #fff;
 	text-decoration: none;
 }
@@ -364,7 +364,7 @@ input[type='checkbox'] {
 	height: 3.125rem;
 	border: 1px solid #FFD9BE;
 	border-radius: 1.5rem;
-	background-color: #FFD9BE;
+	/* background-color: #FFD9BE; */
 	color: #fff;
 	font: 700 0.75rem/1.75rem "Montserrat", sans-serif;
 	cursor: pointer;
@@ -913,7 +913,7 @@ input[type='checkbox'] {
 	width: 3.5rem;
 	height: 3.5rem;
 	border-radius: 50%;
-	background-color: #FFD9BE;
+	/* background-color: #FFD9BE; */
 	text-align: center;
 	vertical-align: top;
 }
@@ -1168,7 +1168,7 @@ input[type='checkbox'] {
 	margin-bottom: 1.125rem;
 	margin-left: 0;
 	border: 0;
-	background-color: #FFD9BE;
+	/* background-color: #FFD9BE; */
 	text-align: left;
 }
 
