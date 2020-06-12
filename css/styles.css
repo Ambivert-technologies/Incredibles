@@ -150,7 +150,7 @@ a.white {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #FFD9BE;
+	/* color: #FFD9BE; */
 	text-decoration: none;
 }
 
@@ -197,7 +197,7 @@ a.white {
 
 .btn-outline-lg:hover {
 	/* background-color: #FFD9BE; */
-	color: #fff;
+	/* color: #FFD9BE; */
 	text-decoration: none;
 }
 
@@ -215,7 +215,7 @@ a.white {
 
 .btn-outline-sm:hover {
 	/* background-color: #FFD9BE; */
-	color: #fff;
+	/* color: #FFD9BE; */
 	text-decoration: none;
 }
 
