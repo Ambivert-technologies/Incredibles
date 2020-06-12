@@ -1,9 +1,3 @@
-/* Template: Juno - Multipurpose Landing Page Pack
-   Author: Ambivert Technologies Private Limited
-   Created: Mar 2019
-   Description: Custom JS file
-*/
-
 
 (function($) {
     "use strict"; 
